@@ -5,4 +5,8 @@ else:
     input = input('If he needs water ?')
     if input == 'yes':
         print('Ask him to drink water')
+        print(' Or Ask him to eat samosa')
+    else:
+        print('its enough')
+    
     
